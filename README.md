@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Homework Assignment 1- Student Portfolio
+HW 1 Basic Portfolio Page
